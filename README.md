@@ -6,7 +6,7 @@ In our case, we have one single resource, `boxes`, so we will use the following 
 
 Endpoint |HTTP Method | CRUD Method | Result
 -- | -- |-- |--
-`box` | GET | READ | Get all boxes
+`boxes` | GET | READ | Get all boxes
 `boxes/:id` | GET | READ | Get a single box
 `boxes`| POST | CREATE | Create a new box
 `boxes/:id` | PUT | UPDATE | Update a box
