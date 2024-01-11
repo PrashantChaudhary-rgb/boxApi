@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-d9^##p)z9@^_=37p)t*e+!xeb-^n@m&j97@)ue%qtfc#lzers^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://spinny-dnui.onrender.com/', 'http://127.0.0.1/']
 
 
 # Application definition
